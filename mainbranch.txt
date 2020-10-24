@@ -1,4 +1,2 @@
 /// first line
 /// commit message additional
-
-// second
